@@ -1,6 +1,6 @@
 Django
-beautifulsoup4==4.10.0
-requests==2.30.0
+beautifulsoup4
+requests
 db-sqlite3
 sqlparser
 tzdata
